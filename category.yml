@@ -1,3 +1,4 @@
 ---
-- categoryName: git
-- categoryName: java
+categoryName:
+	-  git
+	- java
